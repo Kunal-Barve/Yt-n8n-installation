@@ -18,7 +18,7 @@ I used this exact method to deploy n8n for several client projects. It works and
 
 ## YouTube Video Explanation  
 Watch the video explanation: [Self‑Host n8n 100% Free](https://www.youtube.com/watch?v=Temh_Ddxp24)  
-![Screenshot](https://github.com/user-attachments/assets/908eaaf2-d66f-446e-8dd8-a3676da2bc89)
+![Thumbnail_v1](https://github.com/user-attachments/assets/d7874457-c2a6-4143-be70-818c8829c6b4)
 
 ---
 
